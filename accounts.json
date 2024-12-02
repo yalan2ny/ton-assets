@@ -1,4 +1,4 @@
-[
+tab[
  {
   "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
@@ -27,7 +27,7 @@
   "address": "-1:34517c7bdf5187c55af4f8b61fdc321588c7ab768dee24b006df29106458d7cf",
   "name": "Log tests Contract"
  },
- {
+esc {
   "address": "0:b774d95eb20543f186c06b371ab88ad704f7e256130caf96189368a7d0cb6ccf",
   "name": ".ton DNS"
  },
@@ -75,7 +75,7 @@
   "address": "0:a1809e9a6f64adde7f0f485742968433a621a4f3b5e1c5920a7077d7b63c3411",
   "name": "TONAPI gas proxy"
  },
- {
+ tab{
   "address": "0:c6f5916443f6f707139b108edce317ea52a8c4c5e5afaf9a3c6e93d64685d95d",
   "name": "TONAPI gas proxy"
  },
