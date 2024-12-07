@@ -1,4 +1,4 @@
-[
+tab[
  {
   "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
@@ -47,7 +47,7 @@
   "address": "0:9b8ab637507230b99de26a55ea6d9cd4fef0cffcaafe2d1f15e835d5f5d38a43",
   "name": "TONAPI gas proxy"
  },
- {
+ esc{
   "address": "0:1c06b78eb4c0c014b51308221f6263643746fe7be60b4831a8409051cba0306f",
   "name": "TONAPI gas proxy"
  },
@@ -111,7 +111,7 @@
   "address": "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3",
   "name": "TON Foundation"
  },
- {
+tab {
   "address": "0:8bc991cfe177bc7e9721433efa3befd199485a55cffd040a06c89af026b71bcf",
   "name": "Hipo Treasury"
  },
