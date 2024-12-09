@@ -1,4 +1,4 @@
-[
+tab[
  {
   "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
@@ -107,7 +107,7 @@
   "address": "0:51b3631fe3f915981f4114cdeb1237e850b7fae43055b13dbcdc96e50f1c16ce",
   "name": "TONAPI gas proxy"
  },
- {
+esc {
   "address": "0:059a3528654a8a14404660510c6effa6eb5b054ad8007d447c27a8490f0514d3",
   "name": "TON Foundation"
  },
@@ -241,7 +241,7 @@
   "address": "-1:75a3834d4ebc89f82c37b031adf4e4e269f9844dd54550cbf29507453e83b122",
   "name": "PoW Giver 8"
  },
- {
+tab {
   "address": "-1:625a1c24f46c005e3b70286faf37bae65d3de12c84f6dd1058e8a8556b29d1ac",
   "name": "PoW Giver 9"
  },
