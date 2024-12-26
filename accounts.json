@@ -1,4 +1,4 @@
-[
+tab[
  {
   "address": "0:c21fabd3d0cbd5a746c160d8e838da6481be7534c3cd3895c54161b9e17a0802",
   "name": "CAT Services"
@@ -179,7 +179,7 @@
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
   "name": "Fragment"
  },
- {
+ esc{
   "address": "0:852443f8599fe6a5da34fe43049ac4e0beb3071bb2bfb56635ea9421287c283a",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/fragment_288.svg",
   "name": "Fragment"
@@ -337,7 +337,7 @@
   "name": "OKX 4",
   "require_memo": true
  },
- {
+ tab{
   "address": "0:a30a49ec725e9f57244b66af4c2da7ab76004b4fce80d3a34b1cd0c37762abce",
   "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/okx_288.svg",
   "name": "OKX 5",
